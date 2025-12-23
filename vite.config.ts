@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   define: {
     // Stellt sicher, dass process.env.API_KEY durch den tatsächlichen Wert ersetzt wird
-    'process.env.API_KEY': JSON.stringify(process.env.API_KEY || '')
+    'process.env.API_KEY': JSON.stringify(process.env.API_KEY || 'AIzaSyBlAtb-xfjeo3lyQv-QRLUlb3Mc_WLmYe4')
   },
   server: {
     port: 3000,
