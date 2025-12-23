@@ -1,0 +1,8 @@
+
+{
+  "name": "SIS MONOLITH V27.0",
+  "description": "Professional nursing documentation tool (Strukturierte Informationssammlung) featuring risk assessment, measure planning, and automated report generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
